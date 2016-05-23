@@ -1,0 +1,23 @@
+{
+  "name": "js-multiple-stopwatch",
+  "version": "1.0.2",
+  "description": "A stopwatch tool let you measure the performance of your code. You can manage multiple stopwatches using this library.",
+  "main": "dist/js-multiple-stopwatch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wellwind/js-multiple-stopwatch.git"
+  },
+  "keywords": [
+    "stopwatch",
+    "performance"
+  ],
+  "author": "Wellwind <wellwind@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wellwind/js-multiple-stopwatch/issues"
+  },
+  "homepage": "https://github.com/wellwind/js-multiple-stopwatch"
+}
